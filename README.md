@@ -8,3 +8,5 @@ Usage:
 1. Open program
 2. Input your Directory; for example C:\\Windows\\Users\\Admin\\Desktop\\Folder
 3. Wait for the program to finish.
+
+<img src="https://geronimo.okol.org/~vahvee/img/massRenamer.png"/>
