@@ -10,4 +10,4 @@ Usage:
 3. Input your Directory; for example C:\\Windows\\Users\\Admin\\Desktop\\Folder
 4. Wait for the program to finish.
 
-<img src="https://geronimo.okol.org/~vahvee/img/massRenamer.png"/>
+<img src="https://raw.githubusercontent.com/capstxr/Mass-Renamer/main/massRenamer.png"/>
