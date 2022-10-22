@@ -1,0 +1,8 @@
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.exe.config
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.exe
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.pdb
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.csproj.AssemblyReference.cache
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.csproj.SuggestedBindingRedirects.cache
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.csproj.CoreCompileInputs.cache
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.exe
+C:\Users\veeti\Desktop\ok\Mass File Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.pdb
