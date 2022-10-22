@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +18,7 @@ namespace MassRenamer
             Console.Write("Folder Path: "); path = Console.ReadLine();
 
             string[] filesInDirectory = 
-                Directory.GetFiles(path, "*.mp4");
+                Directory.GetFiles(path, "*");
 
             Console.WriteLine(
                 "Files in folder: " 
@@ -40,7 +40,7 @@ namespace MassRenamer
 
                 Console.WriteLine(
                     "File {0} " +
-                    "being renamed to {1}.mp4",
+                    "being renamed to {1}",
                     fileInfo, i
                 );
 
