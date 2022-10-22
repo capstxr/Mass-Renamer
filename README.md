@@ -1,7 +1,7 @@
 # Mass-Renamer
 
 Directory renamer written in c#.
-Easy to use and modify, currently will only see .mp4 files.
+Easy to use and modify, currently will change <b>every</b> file to .mp4 format.
 I only use this to quickly rename my video game clips.
 
 Usage:
