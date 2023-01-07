@@ -13,6 +13,10 @@ namespace MassRenamer
         static void Main(string[] args)
         {
             Console.Title = "Clip Folder Renamer";
+
+            Console.Write("File extension: ");
+            string extension = Console.ReadLine();
+            
             string path;
 
             Console.Write("Folder Path: "); path = Console.ReadLine();
@@ -44,7 +48,7 @@ namespace MassRenamer
                     fileInfo, i
                 );
 
-                fileInfo.MoveTo(path + "\\" + i + ".mp4");
+                fileInfo.MoveTo(path + "\\" + i + "." + extension);
                 i++;
                 Console.WriteLine("File renamed.\n");
             }
