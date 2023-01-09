@@ -17,6 +17,9 @@ namespace MassRenamer
             Console.Write("File extension: ");
             string extension = Console.ReadLine();
             
+            Console.Write("Starting number: ");
+            int i = Int32.Parse(Console.ReadLine());
+
             string path;
 
             Console.Write("Folder Path: "); path = Console.ReadLine();
@@ -33,8 +36,6 @@ namespace MassRenamer
             Console.WriteLine("Press any key to continue.");
             Console.ReadKey();
 
-            int i = 0;
-
             var watch = new System.Diagnostics.Stopwatch();
             watch.Start();
 
@@ -50,12 +51,12 @@ namespace MassRenamer
 
                 fileInfo.MoveTo(path + "\\" + i + "." + extension);
                 i++;
-                Console.WriteLine("File renamed.\n");
+                Console.WriteLine("File renamed.");
             }
 
             watch.Stop();
 
-            Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
+            Console.WriteLine($"\nExecution Time: {watch.ElapsedMilliseconds} ms");
 
             Console.ReadKey();
         }
